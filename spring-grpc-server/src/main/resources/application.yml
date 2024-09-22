@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: hello-world
+
+grpc:
+  server:
+    port: 9090
